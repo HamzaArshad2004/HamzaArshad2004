@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hamza! 👋  
+**I am an aspiring Software Developer & Data Engineer**  
 
-<!--
-**HamzaArshad2004/HamzaArshad2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Software Development Projects:
 
-Here are some ideas to get you started:
+- **EconoMe (Budgeting Application)** - AI-powered app offering tailored budget recommendations, predictive analytics, and secure data handling with RESTful APIs and SQL.
+- **ApplyPal (Job Application Tracker)** - Full-stack application to track job applications and provide personalized interview prep using OpenAI's language model.
+- **JobStat (Job List with Area Statistics)** - A data project using API and web scraping to fetch jobs over multiple US states along with some statistics about living in those states
+- **SmartPack (AI-Generated Packing List)** - A web application that integrates the Weatherstack API to fetch live weather data for the user's destination and the OpenAI API to generate an AI-recommended packing list
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Machine Learning Research Experience:
+- **Center for Quantum and Topological Systems** (ML) - Analyzing noise fingerprints in quantum circuits using SVMs and Python-based models (https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html)
+
+
+## 📬 Connect with Me:
+Feel free to reach out to me on Linkedin (https://www.linkedin.com/in/muhammad-majeed/) or check out more of my work here on GitHub!
